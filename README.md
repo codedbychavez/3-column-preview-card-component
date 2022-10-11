@@ -33,14 +33,14 @@ Users should be able to:
 
 ![Desktop screenshot](./desktop-screenshot.png)
 
-#### Desktop
+#### Mobile
 
 ![Mobile screenshot](./mobile-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/frontend-mentor-3column-preview-card-component-solution-r64qKXjnoQ)
+- Live Site URL: [GitHub Pages](https://codedbychavez.github.io/3-column-preview-card-component/)
 
 ## My process
 
